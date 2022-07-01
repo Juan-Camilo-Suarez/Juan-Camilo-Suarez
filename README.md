@@ -1,8 +1,8 @@
 <h1 align="center"> Hey 👋🏽, I'm Juan Camilo </h1>
 
 Full-Stack | Software engineer :robot:.
-Holberton School Student. :man_technologist:
-- 🎓Recent computer science graduate from UNC - Chapel Hill
+
+- 🎓I'm Studying on Kazan Federal University - at the institute of ITIS
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
