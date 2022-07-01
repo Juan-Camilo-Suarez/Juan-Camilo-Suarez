@@ -1,8 +1,6 @@
 <h1 align="center"> Hey 👋🏽, I'm Juan Camilo :man_technologist: </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
-
 Full-Stack | Software engineer :robot:.
 
 - 🎓I'm Studying on Kazan Federal University - at the institute of ITIS
