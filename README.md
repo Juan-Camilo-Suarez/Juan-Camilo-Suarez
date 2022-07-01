@@ -1,5 +1,5 @@
 <h1 align="center"> Hey 👋🏽, I'm Juan Camilo :man_technologist: </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/2457c1023fb03dcbaf062410715fb897c27c65e809ba60f1a9d69c6252a49421/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c6f72647669646578266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="raghav-byte" /> </p>
 
 ## About me
 
@@ -7,10 +7,6 @@
 - 🎓I'm Studying on Kazan Federal University - at the institute of ITIS
 - 🔭 Other of my projects are available at https://gitlab.com/juancamilosuarez3
 - 🦾 I know about machine learning
-
-### 👀 visitor count
-<hr />
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
 
 <hr />
 <!--
