@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hey 👋🏽, I'm Juan Camilo </h1>
 
 <!--
 **Juan-Camilo-Suarez/Juan-Camilo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
