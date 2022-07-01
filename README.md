@@ -38,7 +38,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
   
--  Portfolio on Spanish 🇪🇸🧑🏻‍💻
+-  Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://camilo-developer-es.netlify.app/
   
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ingCSuarez)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancamilosuarez3@gmail.com)
@@ -48,6 +48,7 @@
 generador:
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://shields.io/
 **Juan-Camilo-Suarez/Juan-Camilo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
