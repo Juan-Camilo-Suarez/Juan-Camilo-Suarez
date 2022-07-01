@@ -1,8 +1,9 @@
 <h1 align="center"> Hey 👋🏽, I'm Juan Camilo :man_technologist: </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-Full-Stack | Software engineer :robot:.
+## About me
 
+- Full-Stack | Software engineer :robot:.
 - 🎓I'm Studying on Kazan Federal University - at the institute of ITIS
 - 🔭 Other of my projects are available at https://gitlab.com/juancamilosuarez3
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
