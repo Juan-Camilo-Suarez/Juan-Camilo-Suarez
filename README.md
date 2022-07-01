@@ -6,9 +6,7 @@
 - Full-Stack | Software engineer :robot:.
 - 🎓I'm Studying on Kazan Federal University - at the institute of ITIS
 - 🔭 Other of my projects are available at https://gitlab.com/juancamilosuarez3
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
+- 🦾 I know about machine learning
 <!--
 **Juan-Camilo-Suarez/Juan-Camilo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
