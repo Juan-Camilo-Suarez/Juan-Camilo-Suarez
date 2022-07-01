@@ -1,5 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Juan Camilo </h1>
 
+Full-Stack | Software engineer :robot:. (In progress)
+
 <!--
 **Juan-Camilo-Suarez/Juan-Camilo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
