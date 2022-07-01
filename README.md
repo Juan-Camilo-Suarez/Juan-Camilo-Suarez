@@ -9,6 +9,7 @@
 - 🦾 I know about machine learning
 
 <hr />
+## My stack
 <!--
 **Juan-Camilo-Suarez/Juan-Camilo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
