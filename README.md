@@ -33,6 +33,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&theme=buefy&layout=compact" />
 </a>
 
+  <br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+  
+  
 <!--
 generador:
 
