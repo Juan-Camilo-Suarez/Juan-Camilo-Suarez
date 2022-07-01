@@ -1,5 +1,5 @@
-<p align="center"> <img width="600" height="200" src="https://image.shutterstock.com/image-vector/application-isometric-laptop-business-graph-600w-1861448179.jpg" alt="raghav-byte" /> </p>
 <h1 align="center"> Hey 👋🏽, I'm Juan Camilo :man_technologist: </h1>
+<p align="center"> <img width="600" height="200" src="https://img.freepik.com/vector-gratis/robot-humano_53876-90440.jpg?t=st=1656683025~exp=1656683625~hmac=73d7f1162c592b7698f072abbe00c690aa98ceea0a8ff0e9b2070b1dc01261f4&w=826" /> </p>
 <p align="left"> <img src="https://camo.githubusercontent.com/2457c1023fb03dcbaf062410715fb897c27c65e809ba60f1a9d69c6252a49421/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c6f72647669646578266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="raghav-byte" /> </p>
 
 ## About me
