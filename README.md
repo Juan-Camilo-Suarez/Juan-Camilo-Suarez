@@ -8,8 +8,10 @@
 - 🔭 Other of my projects are available at https://gitlab.com/juancamilosuarez3
 - 🦾 I know about machine learning
 
-<hr />
 ## My stack
+
+<hr />
+
 <!--
 **Juan-Camilo-Suarez/Juan-Camilo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
