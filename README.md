@@ -38,8 +38,13 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
   
+-  Portfolio on Spanish 🇪🇸🧑🏻‍💻
   
-<!--
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ingCSuarez)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancamilosuarez3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-suarez-2a149723a/)
+
+  <!--
 generador:
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
