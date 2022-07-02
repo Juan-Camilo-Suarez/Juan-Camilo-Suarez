@@ -33,6 +33,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Camilo-Suarez&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&theme=buefy&layout=compact" />
 </a>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
   <br/>
 
