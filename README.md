@@ -41,7 +41,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
   
--  Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://camilo-developer-es.netlify.app/
+-  Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://juan-camilo-es.netlify.app/
+-  Portfolio on English 🇺🇸🧑🏻‍💻 https://juan-camilo-en.netlify.app/
   
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ingCSuarez)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancamilosuarez3@gmail.com)
