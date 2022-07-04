@@ -32,8 +32,13 @@
   <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Camilo-Suarez&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&theme=buefy&layout=compact" />
+  <img src="https://wakatime.com/share/@62d65238-2123-414d-844a-19f341fc1933/94ba5cb1-4828-43a8-82e0-cafaf896693f.png" wh>
+  <img src="https://wakatime.com/share/@62d65238-2123-414d-844a-19f341fc1933/4f6451f1-8046-4147-89db-c51cd77888fa.png" />
+  
+ 
 </a>
 <!--START_SECTION:waka-->
+
 
 <!--END_SECTION:waka-->
 
