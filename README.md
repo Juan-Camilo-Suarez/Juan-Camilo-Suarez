@@ -43,7 +43,7 @@
   
 -  Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://juan-camilo-es.netlify.app/
 -  Portfolio on English 🇺🇸🧑🏻‍💻 https://juan-camilo-en.netlify.app/
--  Portfolio on English 🇷🇺🧑🏻‍💻 https://juan-camilo-ru.netlify.app/
+-  Portfolio on Russian 🇷🇺🧑🏻‍💻 https://juan-camilo-ru.netlify.app/
   
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ingCSuarez)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancamilosuarez3@gmail.com)
