@@ -1,10 +1,16 @@
-<h1 align="center"> Hey 👋🏽, I'm Juan Camilo :man_technologist: </h1>
+<h1 align="center"> Hi there 👋🏽 I'm Juan Camilo :man_technologist: </h1>
 <!--<p align="center"> <img width="600" height="300" src="https://img.freepik.com/vector-gratis/robot-humano_53876-90440.jpg?t=st=1656683025~exp=1656683625~hmac=73d7f1162c592b7698f072abbe00c690aa98ceea0a8ff0e9b2070b1dc01261f4&w=826" /> </p>
 <div align="center">
 <img src="https://gigonway.com/wp-content/uploads/2022/05/1653428950_562_Fotos-de-fondo-de-LinkedIn-para-cada-industria.png" align="center" style="width: 1000px" />
 </div>  -->
 
-## About me
+<div align="center">
+<img src="https://klaxos.com/wp-content/uploads/2017/12/strategy-brain-think-Mastermind.jpg" align="center" style="width: 1000px" />
+</div>  
+  
+
+
+## ⚡About Me
 
 - Full-Stack | Software engineer :robot:.
 - 🎓I'm Studying on Kazan Federal University - at the institute of ITIS
