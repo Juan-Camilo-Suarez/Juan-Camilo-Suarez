@@ -61,26 +61,17 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Vue" src="https://camo.githubusercontent.com/50decafa53f269e4c88e47320b85896b1823a4be4ac8d1913b197111e4a10da1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5675652e6a7326636f6c6f723d323232323232266c6f676f3d5675652e6a73266c6f676f436f6c6f723d344643303844266c6162656c3d"/>
-  ---
+  <img alt="ubuntu" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  
+</p>
+
+---
 ### 💡 **Projects**
 
 #### **Programming**
-#### **Data Analysis** 
-  
-</p>
+#### **Data Analysis**
 
-<h2 align="center">
-  Other technologies 💻
-</h2> 
-<p align="center">
-  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit" />
-  <img alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
-  <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  
-  
-</p>
 <h2 align="center">
   🌱 I’m currently learning
 </h2> 
@@ -95,10 +86,20 @@
  
   
 ## My stats
+  <p align="center">
   
+ <a href="https://github.com/Juan-Camilo-Suarez">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+ 
+<a href="https://github.com/Juan-Camilo-Suarez">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Camilo-Suarez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juan Camilo's GitHub Stats" />
+</a>
+<!--  
+</p>
   <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Camilo-Suarez&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&theme=buefy&layout=compact" />-->
 <!--  <img height="300" width = "400" src="https://wakatime.com/share/@62d65238-2123-414d-844a-19f341fc1933/94ba5cb1-4828-43a8-82e0-cafaf896693f.png" wh>
   <img height="300" width = "400" src="https://wakatime.com/share/@62d65238-2123-414d-844a-19f341fc1933/4f6451f1-8046-4147-89db-c51cd77888fa.png" />-->
   
