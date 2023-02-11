@@ -72,6 +72,8 @@
 #### **Programming**
 #### **Data Analysis**
 
+
+---
 <h2 align="center">
   🌱 I’m currently learning
 </h2> 
