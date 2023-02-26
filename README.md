@@ -70,6 +70,9 @@
 ### 💡 **Projects**
 
 #### **Programming**
+- [Full Stack Web Application for e-commerce](https://gitlab.com/juancamilosuarez3/e-commerce) - Django Rest Framework, Vue.js, Bulma and Stripe
+- [Django Api for deliveries](https://gitlab.com/juancamilosuarez3/DRF-North-Trans) - Integration with Django
+- 
 #### **Data Analysis**
 
 
