@@ -72,7 +72,8 @@
 #### **Programming**
 - [Ful Stack Web Django automation](https://github.com/Juan-Camilo-Suarez/Django-program-automation) - Django automation and generation of discipline files
 - [Full Stack Web Application for e-commerce](https://github.com/Juan-Camilo-Suarez/e-commerce-django) - Django Rest Framework, Vue.js, Bulma and Stripe
-- [Django Api for deliveries](https://gitlab.com/juancamilosuarez3/DRF-North-Trans) - Integration with Django
+- [Django Api for deliveries](https://github.com/Juan-Camilo-Suarez/DRF-North-Trans-) - Integration with Django
+- [Microservices Django/ Flask / React](https://gitlab.com/juancamilosuarez3/DRF-North-Trans) - A microservices architecture where the application is developed as a collection of services form Django and Flask. 
 
 #### **Data Analysis**
 
