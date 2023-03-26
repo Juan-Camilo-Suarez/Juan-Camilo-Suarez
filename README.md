@@ -73,7 +73,9 @@
 - [Ful Stack Web Django automation](https://github.com/Juan-Camilo-Suarez/Django-program-automation) - Django automation and generation of discipline files
 - [Full Stack Web Application for e-commerce](https://github.com/Juan-Camilo-Suarez/e-commerce-django) - Django Rest Framework, Vue.js, Bulma and Stripe
 - [Django Api for deliveries](https://github.com/Juan-Camilo-Suarez/DRF-North-Trans) - Integration with Django
-- [Microservices Django/ Flask / React](https://github.com/Juan-Camilo-Suarez/PostExpress-Microservices) - A microservices architecture where the application is developed as a collection of services form Django and Flask. 
+- [Microservices Django/ Flask / React](https://github.com/Juan-Camilo-Suarez/PostExpress-Microservices) - A microservices architecture where the application is developed as a collection of services form Django and Flask.
+- [
+Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - Django Project that leverages Google APIs to provide users with various functionalities.
 
 #### **Data Analysis**
 
@@ -121,9 +123,11 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
   
--  Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://juan-camilo-es.netlify.app/
+<!--Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://juan-camilo-es.netlify.app/
+-  Portfolio on Russian 🇷🇺🧑🏻‍💻 https://juan-camilo-ru.netlify.app/ -->
+- 📫 How to reach me: https://www.linkedin.com/in/juan-camilo-suarez-2a149723a/
 -  Portfolio on English 🇺🇸🧑🏻‍💻 https://juan-camilo-en.netlify.app/
--  Portfolio on Russian 🇷🇺🧑🏻‍💻 https://juan-camilo-ru.netlify.app/
+
   
 
   <!--
