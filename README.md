@@ -21,8 +21,8 @@
 
 <!-- Website -->
 
-<a href="https://juan-camilo-en.netlify.app/">
-<img alt="Website" src="https://juan-camilo-suarez-dev.netlify.app/" />
+<a href="https://juan-camilo-suarez-dev.netlify.app/">
+<img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
 </a>
 
 <!-- TELEGRAM -->
