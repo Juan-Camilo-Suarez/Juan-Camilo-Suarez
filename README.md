@@ -22,11 +22,11 @@
 <!-- Website -->
 
 <a href="https://juan-camilo-en.netlify.app/">
-<img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
+<img alt="Website" src="https://juan-camilo-suarez-dev.netlify.app/" />
 </a>
 
 <!-- TELEGRAM -->
-<a href="https://t.me/ingCSuarez">
+<a href="https://t.me/CSuarezDev">
 <img alt="Youtube" src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
@@ -123,10 +123,11 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
   
-<!--Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://juan-camilo-es.netlify.app/
--  Portfolio on Russian 🇷🇺🧑🏻‍💻 https://juan-camilo-ru.netlify.app/ -->
+<!--Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white
+-  Portfolio on Russian 🇷🇺🧑🏻‍💻 https://juan-camilo-ru.netlify.app/   -  https://juan-camilo-en.netlify.app/ -->
 - 📫 How to reach me: https://www.linkedin.com/in/juan-camilo-suarez-2a149723a/
--  Portfolio on English 🇺🇸🧑🏻‍💻 https://juan-camilo-en.netlify.app/
+-  Portfolio 🧑🏻‍💻 https://juan-camilo-suarez-dev.netlify.app/
+
 
   
 
