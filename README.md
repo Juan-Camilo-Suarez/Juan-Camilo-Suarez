@@ -36,7 +36,7 @@
 </a>
 
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/juan-camilo-suarez-2a149723a/">
+<a href="https://www.linkedin.com/in/juancamilosuarez-backenddev/">
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
