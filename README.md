@@ -1,11 +1,5 @@
 <h1 align="center"> Hi there 👋🏽 I'm Juan Camilo :man_technologist: </h1>
 
-<div align="center">
-<img src="https://klaxos.com/wp-content/uploads/2017/12/strategy-brain-think-Mastermind.jpg" align="center" style="width: 1000px" />
-</div>  
-  
-
-
 ## ⚡About Me
 
 - Full-Stack | Software engineer :robot:.
