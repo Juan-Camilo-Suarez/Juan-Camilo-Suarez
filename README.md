@@ -1,8 +1,4 @@
 <h1 align="center"> Hi there 👋🏽 I'm Juan Camilo :man_technologist: </h1>
-<!--<p align="center"> <img width="600" height="300" src="https://img.freepik.com/vector-gratis/robot-humano_53876-90440.jpg?t=st=1656683025~exp=1656683625~hmac=73d7f1162c592b7698f072abbe00c690aa98ceea0a8ff0e9b2070b1dc01261f4&w=826" /> </p>
-<div align="center">
-<img src="https://gigonway.com/wp-content/uploads/2022/05/1653428950_562_Fotos-de-fondo-de-LinkedIn-para-cada-industria.png" align="center" style="width: 1000px" />
-</div>  -->
 
 <div align="center">
 <img src="https://klaxos.com/wp-content/uploads/2017/12/strategy-brain-think-Mastermind.jpg" align="center" style="width: 1000px" />
@@ -77,9 +73,7 @@
 - [
 Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - Django Project that leverages Google APIs to provide users with various functionalities.
 
-#### **Data Analysis**
-
-
+<!--
 ---
 <h2 align="center">
   🌱 I’m currently learning
@@ -92,9 +86,10 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
   
 </p>
   
- 
+ -->
   
 ## My stats
+<!--
   <p align="center">
   
  <a href="https://github.com/Juan-Camilo-Suarez">
@@ -104,48 +99,13 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
 <a href="https://github.com/Juan-Camilo-Suarez">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Camilo-Suarez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juan Camilo's GitHub Stats" />
 </a>
-<!--  
-</p>
-  <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Camilo-Suarez&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&theme=buefy&layout=compact" />-->
-<!--  <img height="300" width = "400" src="https://wakatime.com/share/@62d65238-2123-414d-844a-19f341fc1933/94ba5cb1-4828-43a8-82e0-cafaf896693f.png" wh>
-  <img height="300" width = "400" src="https://wakatime.com/share/@62d65238-2123-414d-844a-19f341fc1933/4f6451f1-8046-4147-89db-c51cd77888fa.png" />-->
-  
  
+ -->
 </a>
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
 
   <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-  
-<!--Portfolio on Spanish 🇪🇸🧑🏻‍💻 https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white
--  Portfolio on Russian 🇷🇺🧑🏻‍💻 https://juan-camilo-ru.netlify.app/   -  https://juan-camilo-en.netlify.app/ -->
+
 - 📫 How to reach me: https://www.linkedin.com/in/juan-camilo-suarez-2a149723a/
 -  Portfolio 🧑🏻‍💻 https://juan-camilo-suarez-dev.netlify.app/
-
-
-  
-
-  <!--
-generador:
-https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/AVS1508.md
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-https://shields.io/
-**Juan-Camilo-Suarez/Juan-Camilo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
