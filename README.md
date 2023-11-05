@@ -82,6 +82,7 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
  -->
   
 ## My stats
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <!--
   <p align="center">
   
