@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋🏽 I'm Juan Camilo :man_technologist: </h1>
 
-- Full-Stack | Software engineer :robot:.
-- I have been working in companies like Smart Laboratory & MoneyCat 
+- :robot: Full-Stack | Software engineer 
+- 📌I have been working in companies like Smart Laboratory & MoneyCat 
 - 🎓I'm Studying on Kazan Federal University - at the institute of ITIS
 - 🔭 Other of my projects are available at https://gitlab.com/juancamilosuarez3
 - 🦾 I know about machine learning
