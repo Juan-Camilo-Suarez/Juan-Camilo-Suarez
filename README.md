@@ -46,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   
 </p>
-👉 My principal stack in my commercial expience is:
+👉 My principal stack in commercial expience is:
 
   - Python
   - Django | DRF | Fast API | Flask
@@ -56,7 +56,7 @@
   - Pytest | unittest
   - Docker | docker-compose | Gitlab CD/CI | Linux
 
-🌱 I'm leanging about:
+🌱 I’m currently learning:
   - in-depth knowledge of asynchronous programming and Celery
   - Kafka
   - Devops and SRE
