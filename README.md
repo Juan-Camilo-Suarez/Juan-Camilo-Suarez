@@ -56,7 +56,7 @@ My principal stack in my commercial expience is:
   - Docker | docker-compose | Gitlab CD/CI | Linux
 
 Also I have experience with others technologies like:
-  -Java, Spring Boot, JavaScript AngularJS, Vuejs, React 
+  - Java, Spring Boot, JavaScript AngularJS, Vuejs, React 
 
 ---
 <h2 align="center">
