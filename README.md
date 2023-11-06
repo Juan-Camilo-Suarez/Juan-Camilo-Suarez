@@ -1,3 +1,4 @@
+<!--https://github.com/Ileriayo/markdown-badges  icnonos-->
 <h1 align="center"> Hi there 👋🏽 I'm Juan Camilo :man_technologist: </h1>
 
 - :robot: Full-Stack | Software engineer 
@@ -45,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   
 </p>
-My principal stack in my commercial expience is:
+👉 My principal stack in my commercial expience is:
 
   - Python
   - Django | DRF | Fast API | Flask
@@ -55,12 +56,12 @@ My principal stack in my commercial expience is:
   - Pytest | unittest
   - Docker | docker-compose | Gitlab CD/CI | Linux
 
-I'm leanging about
+🌱 I'm leanging about
   - in-depth knowledge of asynchronous programming and Celery
   - Kafka
   - Devops and SRE
 
-Also I have experience with others technologies like:
+⚡Also I have experience with others technologies like:
   - Java, Spring Boot, JavaScript AngularJS, Vuejs, React 
 
 ---
