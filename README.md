@@ -56,7 +56,9 @@
 </p>
 
 ---
-### 💡 **Projects**
+<h2 align="center">
+  💡 Projects
+</h2> 
 
 #### **Programming**
 - [Ful Stack Web Django automation](https://github.com/Juan-Camilo-Suarez/Django-program-automation) - Django automation and generation of discipline files
@@ -80,10 +82,10 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
 </p>
   
  -->
-  
-## My stats
+<h2 align="center">
+  📈My stats
+</h2>   
 ![Metrics](/github-metrics.svg)
-</a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
