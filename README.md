@@ -55,6 +55,11 @@ My principal stack in my commercial expience is:
   - Pytest | unittest
   - Docker | docker-compose | Gitlab CD/CI | Linux
 
+I'm leanging about
+  - in-depth knowledge of asynchronous programming and Celery
+  - Kafka
+  - Devops and SRE
+
 Also I have experience with others technologies like:
   - Java, Spring Boot, JavaScript AngularJS, Vuejs, React 
 
