@@ -56,7 +56,7 @@
   - Pytest | unittest
   - Docker | docker-compose | Gitlab CD/CI | Linux
 
-🌱 I'm leanging about
+🌱 I'm leanging about:
   - in-depth knowledge of asynchronous programming and Celery
   - Kafka
   - Devops and SRE
@@ -94,8 +94,9 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
 <h2 align="center">
   📈My stats
 </h2>
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img alt="metricts" src="/github-metrics.svg" /> 
+</p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
