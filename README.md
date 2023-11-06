@@ -83,21 +83,7 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
   
 ## My stats
 ![Metrics](/github-metrics.svg)
-<!--
-  <p align="center">
-  
- <a href="https://github.com/Juan-Camilo-Suarez">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Camilo-Suarez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
- 
-<a href="https://github.com/Juan-Camilo-Suarez">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Camilo-Suarez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juan Camilo's GitHub Stats" />
-</a>
- 
- -->
-</a>
-
-  <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
