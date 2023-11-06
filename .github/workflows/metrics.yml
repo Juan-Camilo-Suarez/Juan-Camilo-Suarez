@@ -31,4 +31,6 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 6
       
