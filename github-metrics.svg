@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1352 Commits
+                            1353 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.36883485039755" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="218.36883485039755" y="0" width="84.98315406629804" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="303.3519889166956" y="0" width="72.05587914670367" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="375.40786806339923" y="0" width="29.467972842951248" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.8758409063505" y="0" width="19.098189119955116" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="423.9740300263056" y="0" width="17.579469310517084" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="441.5534993368227" y="0" width="13.71094919249859" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.2644485293213" y="0" width="4.735551470678704" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.36821152002855" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="218.36821152002855" y="0" width="84.9842245459254" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="303.35243606595395" y="0" width="72.05567346434168" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="375.40810953029563" y="0" width="29.467888727091044" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.87599825738664" y="0" width="19.09813460447776" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="423.9741328618644" y="0" width="17.579419130201288" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="441.5535519920657" y="0" width="13.710910054812" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.2644620468777" y="0" width="4.735537953122284" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1354,6 +1354,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#10a08e8</div>
+                                        <div class="message">+ fix class setting in config</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/Fastapi-booking</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#60dc0fe</div>
                                         <div class="message">+ add intructions for migrate</div>
                                     </div>
@@ -1376,26 +1396,6 @@
                                     <div class="commit">
                                         <div class="sha">#3a64213</div>
                                         <div class="message">+ fixed path url database</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Juan-Camilo-Suarez/Fastapi-booking</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a6fd5f</div>
-                                        <div class="message">+ create class settings to use env</div>
                                     </div>
                                 </div>
                             </section>
@@ -1738,7 +1738,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2024, 15:18:23 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 16:12:56 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
