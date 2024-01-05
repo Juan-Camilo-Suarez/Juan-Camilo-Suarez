@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1307" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1224" class="">
     <defs>
         <style/>
     </defs>
@@ -1322,6 +1322,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">endpoints</span></div>
                                     <div class="commit">
+                                        <div class="sha">#260f3bf</div>
+                                        <div class="message">+ create simple query throw orm execute</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/Fastapi-booking</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">endpoints</span></div>
+                                    <div class="commit">
                                         <div class="sha">#fb97db9</div>
                                         <div class="message">+ create simple router for bookings</div>
                                     </div>
@@ -1340,48 +1360,6 @@
                                         <span class="code">endpoints</span>
                                         in
                                         <span class="repo">Juan-Camilo-Suarez/Fastapi-booking</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">Juan-Camilo-Suarez/Fastapi-booking</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cf62c4c</div>
-                                        <div class="message">Merge pull request #5 from Juan-Camilo-Suarez/models_new_styles
-
-Models new styles form alchemy 2023</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72c41fd</div>
-                                        <div class="message">+ migrations for new styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d04a470</div>
-                                        <div class="message">+ new styles to create models in users</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec5cd04</div>
-                                        <div class="message">+ new styles to create models in rooms</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd61956</div>
-                                        <div class="message">+ new styles to create models in hotels</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdb50e7</div>
-                                        <div class="message">+ new styles to create models in bookings</div>
                                     </div>
                                 </div>
                             </section>
@@ -1729,7 +1707,7 @@ Models new styles form alchemy 2023</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2024, 15:18:51 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 16:13:04 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
