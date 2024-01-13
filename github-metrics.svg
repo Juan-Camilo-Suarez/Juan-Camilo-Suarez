@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1443 Commits
+                            1444 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.69665837617757" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="217.69665837617757" y="0" width="86.1268670527537" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="303.82352542893125" y="0" width="71.8447316273884" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="375.66825705631965" y="0" width="29.377265402479928" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.04552245879955" y="0" width="19.039401640343236" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="424.0849240991428" y="0" width="17.525356709202445" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="441.6102808083453" y="0" width="13.668744555134761" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.27902536348006" y="0" width="4.720974636519981" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.6659226687616" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="217.6659226687616" y="0" width="86.17965268258683" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="303.84557535134843" y="0" width="71.83458816139702" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="375.6801635127454" y="0" width="29.373117745640233" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.0532812583857" y="0" width="19.036713544519635" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="424.0899948029053" y="0" width="17.522882375236122" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="441.61287717814145" y="0" width="13.66681472058184" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.2796918987233" y="0" width="4.720308101276728" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1327,6 +1327,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#8527407</div>
+                                        <div class="message">+ services to get las 10 commits in docs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/retrospective_analysis_app_diplom</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#335b15d</div>
                                         <div class="message">+ services for durability</div>
                                     </div>
@@ -1349,26 +1369,6 @@
                                     <div class="commit">
                                         <div class="sha">#e60190d</div>
                                         <div class="message">+ initial services</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Juan-Camilo-Suarez/script_to_dataset_PR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bccaa50</div>
-                                        <div class="message">+ finish script</div>
                                     </div>
                                 </div>
                             </section>
@@ -1731,7 +1731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2024, 18:10:05 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2024, 19:12:13 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
