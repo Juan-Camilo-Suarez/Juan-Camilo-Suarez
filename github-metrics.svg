@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1495 Commits
+                            1498 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.17050313034605" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="217.17050313034605" y="0" width="87.03048822747898" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="304.20099135782505" y="0" width="71.67108871199838" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="375.8720800698234" y="0" width="29.306262924008298" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.17834299383173" y="0" width="18.993384943875398" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="424.17172793770715" y="0" width="17.482999337084763" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="441.65472727479187" y="0" width="13.635708303199339" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.2904355779912" y="0" width="4.7095644220087856" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.1717786750702" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="217.1717786750702" y="0" width="87.02829760174419" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="304.2000762768144" y="0" width="71.6715096700832" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="375.87158594689754" y="0" width="29.30643505350341" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.178021000401" y="0" width="18.993496500977347" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="424.17151750137833" y="0" width="17.48310202298015" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="441.6546195243585" y="0" width="13.635788392141137" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.29040791649965" y="0" width="4.709592083500401" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1332,8 +1332,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#01d6cae</div>
-                                        <div class="message">+ add subservice in unionservices</div>
+                                        <div class="sha">#0e64dae</div>
+                                        <div class="message">+ finished function to get general info</div>
                                     </div>
                                 </div>
                             </section>
@@ -1352,8 +1352,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1a54ada</div>
-                                        <div class="message">+ refactor function get_total_quantity_commits_in_dependencies</div>
+                                        <div class="sha">#ce49688</div>
+                                        <div class="message">+ implement async</div>
                                     </div>
                                 </div>
                             </section>
@@ -1372,8 +1372,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2d4e73e</div>
-                                        <div class="message">+ refactor filename to utils</div>
+                                        <div class="sha">#fd606b8</div>
+                                        <div class="message">+ refactorin method get_metric_releases_init_to_current</div>
                                     </div>
                                 </div>
                             </section>
@@ -1741,7 +1741,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2024, 13:10:45 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jan 2024, 14:08:45 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
