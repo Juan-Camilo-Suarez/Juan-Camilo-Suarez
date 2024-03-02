@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1593 Commits
+                            1595 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.15061257238506" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="216.15061257238506" y="0" width="88.70406876282739" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="304.85468133521243" y="0" width="71.41248586643101" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="376.2671672016435" y="0" width="29.16863290328961" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.43580010493304" y="0" width="18.904186946501184" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="424.33998705143426" y="0" width="17.400894513033087" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="441.7408815644674" y="0" width="13.571671383133834" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.3125529476012" y="0" width="4.687447052398822" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.13728257444868" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="216.13728257444868" y="0" width="88.72696656514344" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="304.8642491395921" y="0" width="71.4080818618441" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="376.27233100143627" y="0" width="29.16683407509393" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.43916507653023" y="0" width="18.903021126196595" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="424.3421862027268" y="0" width="17.39982140070095" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="441.7420076034278" y="0" width="13.570834418808927" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.3128420222367" y="0" width="4.687157977763354" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1327,48 +1327,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#386c3bd</div>
+                                        <div class="message">+ include get_clients_by_university in urls</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/Library_Shop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0615863</div>
+                                        <div class="message">+ view get_clients_by_university using Subquery</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/Library_Shop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#9622de1</div>
                                         <div class="message">+ inclued BooksApiView in urls</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Juan-Camilo-Suarez/Library_Shop</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b012c94</div>
-                                        <div class="message">+ BooksApiView[</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Juan-Camilo-Suarez/Library_Shop</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4e6ccaf</div>
-                                        <div class="message">+ BookSerializer</div>
                                     </div>
                                 </div>
                             </section>
@@ -1733,7 +1733,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2024, 15:16:16 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2024, 16:10:01 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
