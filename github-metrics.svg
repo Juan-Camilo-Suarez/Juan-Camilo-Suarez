@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1614 Commits
+                            1615 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.05121417567497" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="216.05121417567497" y="0" width="88.87378149307872" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="304.9249956687537" y="0" width="71.380676671659" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="376.3056723404127" y="0" width="29.15521949996723" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.46089184037993" y="0" width="18.89549372166491" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="424.3563855620448" y="0" width="17.392892587915533" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="441.74927814996033" y="0" width="13.56543035351053" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.31470850347085" y="0" width="4.685291496529111" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.04357678670377" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="216.04357678670377" y="0" width="88.88690076805695" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="304.93047755476067" y="0" width="71.37815337182545" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="376.30863092658615" y="0" width="29.15418886585248" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.4628197924386" y="0" width="18.894825767837823" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="424.3576455602764" y="0" width="17.39227775088935" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="441.7499233111658" y="0" width="13.564950816894331" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.3148741280601" y="0" width="4.6851258719398725" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1316,6 +1316,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b404ebf</div>
+                                        <div class="message">+ create example to use fuction apply in pool</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/multiprocessing_python</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#19bb2bb</div>
                                         <div class="message">+ create example to use maxtasksperchild param in Pool</div>
                                     </div>
@@ -1338,26 +1358,6 @@
                                     <div class="commit">
                                         <div class="sha">#f0df034</div>
                                         <div class="message">+ create example to use initializer param in Pool</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Juan-Camilo-Suarez/multiprocessing_python</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2dba279</div>
-                                        <div class="message">+ inclued in gitignore .idea</div>
                                     </div>
                                 </div>
                             </section>
@@ -1722,7 +1722,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2024, 12:10:23 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2024, 13:12:56 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
