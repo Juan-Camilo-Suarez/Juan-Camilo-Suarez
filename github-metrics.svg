@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1666 Commits
+                            1667 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.50959715250596" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="240.50959715250596" y="0" width="80.73935058642125" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="321.24894773892726" y="0" width="63.86679814720144" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.1157458861287" y="0" width="26.086198752456873" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.20194463858553" y="0" width="16.906461800080283" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="428.10840643866584" y="0" width="15.562031797737234" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="443.6704382364031" y="0" width="12.137466924736573" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.8079051611397" y="0" width="4.192094838860393" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.5072081073552" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="240.5072081073552" y="0" width="80.74311788230494" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="321.25032598966015" y="0" width="63.86616374148038" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.1164897311405" y="0" width="26.085939631376597" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.20242936251714" y="0" width="16.906293863744033" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="428.10872322626113" y="0" width="15.56187721597816" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="443.6706004422393" y="0" width="12.137346360082015" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.8079468023213" y="0" width="4.192053197678649" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1343,6 +1343,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c3e11e9</div>
+                                        <div class="message">recursive ex</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/challenge_excercies</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5a231ef</div>
                                         <div class="message">yandex training algorith</div>
                                     </div>
@@ -1365,26 +1385,6 @@
                                     <div class="commit">
                                         <div class="sha">#1abfb57</div>
                                         <div class="message">yandex training algorith</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Juan-Camilo-Suarez/challenge_excercies</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1bdaedf</div>
-                                        <div class="message">yandex training how many times are s in t</div>
                                     </div>
                                 </div>
                             </section>
@@ -1744,7 +1744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2024, 15:17:54 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2024, 16:13:19 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
