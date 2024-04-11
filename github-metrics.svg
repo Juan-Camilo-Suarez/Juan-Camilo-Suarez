@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1687 Commits
+                            1688 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.9865252252947" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="239.9865252252947" y="0" width="81.0566908238245" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="321.0432160491192" y="0" width="64.23539174181852" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.2786077909377" y="0" width="26.02946522324801" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.30807301418577" y="0" width="16.869692807654243" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="428.17776582183996" y="0" width="15.528186736832641" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="443.7059525586726" y="0" width="12.111069773475457" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.81702233214804" y="0" width="4.182977667851933" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.9814341053763" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="239.9814341053763" y="0" width="81.0647297994607" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="321.046163904837" y="0" width="64.23402903996657" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.28019294480356" y="0" width="26.0289130292082" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.30910597401174" y="0" width="16.869334930773487" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="428.17844090478525" y="0" width="15.527857318917539" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="443.70629822370285" y="0" width="12.110812846931353" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.8171110706342" y="0" width="4.182888929365874" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1342,6 +1342,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">Juan-Camilo-Suarez/challenge_excercies</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cdde188</div>
+                                        <div class="message">+ excercice_1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Juan-Camilo-Suarez/Library_Shop</span>
                                     </div>
                                 </div>
@@ -1378,26 +1398,6 @@ This reverts commit 0bac16d99431400f9376d56451e3ef06e159dcba.</div>
                                     <div class="commit">
                                         <div class="sha">#0bac16d</div>
                                         <div class="message">+ created text</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Juan-Camilo-Suarez/web_app_diplom</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5da8682</div>
-                                        <div class="message">+ created initial with general information about library</div>
                                     </div>
                                 </div>
                             </section>
@@ -1762,7 +1762,7 @@ This reverts commit 0bac16d99431400f9376d56451e3ef06e159dcba.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2024, 14:09:20 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2024, 15:18:19 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
