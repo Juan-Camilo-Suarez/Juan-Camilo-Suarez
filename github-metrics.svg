@@ -1549,7 +1549,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.02m out of 133m users</span>
+                                    <span class="gh">ranked 2.02m out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">26</div>
                                     </div>
@@ -1715,7 +1715,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2024, 22:09:12 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 23:11:06 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
