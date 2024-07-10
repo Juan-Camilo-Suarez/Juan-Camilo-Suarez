@@ -1337,12 +1337,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#28 [Snyk] Security upgrade certifi from 2023.7.22 to 2024.7.4</span>
+                                        <span class="issue">#29 [Snyk] Security upgrade zipp from 3.15.0 to 3.19.1</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Juan-Camilo-Suarez/fastapi_course_01</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>1 file changed <span class="code">++2 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1358,14 +1358,14 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-fix-8ab796de80dae9410cceadc12b71a0ec</span></div>
+                                    <div>on branch <span class="code">snyk-fix-30510b2a320e1ca917b386f9348b9cd4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6687bb3</div>
-                                        <div class="message">fix: trading_app/requirements.txt to reduce vulnerabilities
+                                        <div class="sha">#6a03d8c</div>
+                                        <div class="message">fix: lesson_05/requirements.txt to reduce vulnerabilities
 
 
 The following vulnerabilities are fixed by pinning transitive dependencies:
-- https://snyk.io/vuln/SNYK-PYTHON-CERTIFI-7430173</div>
+- https://snyk.io/vuln/SNYK-PYTHON-ZIPP-7430899</div>
                                     </div>
                                 </div>
                             </section>
@@ -1379,7 +1379,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">snyk-fix-8ab796de80dae9410cceadc12b71a0ec</span>
+                                        <span class="code">snyk-fix-30510b2a320e1ca917b386f9348b9cd4</span>
                                         in
                                         <span class="repo">Juan-Camilo-Suarez/fastapi_course_01</span>
                                     </div>
@@ -1711,7 +1711,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2024, 11:16:27 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 12:12:36 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
