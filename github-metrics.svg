@@ -1327,12 +1327,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#31 [Snyk] Security upgrade zipp from 3.15.0 to 3.19.1</span>
+                                        <span class="issue">#32 [Snyk] Security upgrade setuptools from 65.5.0 to 70.0.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Juan-Camilo-Suarez/fastapi_course_01</span></div>
-                                    <div>1 file changed <span class="code">++2 --1</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1348,14 +1348,14 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-fix-43467a39e0c47cf0d305f6730a6cd66b</span></div>
+                                    <div>on branch <span class="code">snyk-fix-3e5c4e3cb2ae12b79c4cb29d6e49ba9b</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b4c9b78</div>
+                                        <div class="sha">#56f19ac</div>
                                         <div class="message">fix: lesson_04/requirements.txt to reduce vulnerabilities
 
 
 The following vulnerabilities are fixed by pinning transitive dependencies:
-- https://snyk.io/vuln/SNYK-PYTHON-ZIPP-7430899</div>
+- https://snyk.io/vuln/SNYK-PYTHON-SETUPTOOLS-7448482</div>
                                     </div>
                                 </div>
                             </section>
@@ -1369,7 +1369,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">snyk-fix-43467a39e0c47cf0d305f6730a6cd66b</span>
+                                        <span class="code">snyk-fix-3e5c4e3cb2ae12b79c4cb29d6e49ba9b</span>
                                         in
                                         <span class="repo">Juan-Camilo-Suarez/fastapi_course_01</span>
                                     </div>
@@ -1568,7 +1568,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.9411362080766565 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.153319644079391 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1716,7 +1716,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2024, 23:12:19 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2024, 00:12:04 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
