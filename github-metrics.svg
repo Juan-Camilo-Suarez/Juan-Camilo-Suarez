@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#33 [Snyk] Security upgrade setuptools from 65.5.0 to 70.0.0</span>
+                                        <span class="issue">#34 [Snyk] Security upgrade setuptools from 65.5.0 to 70.0.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -1359,10 +1359,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-fix-6b6853b06b1e32364de3a1bd028d85b2</span></div>
+                                    <div>on branch <span class="code">snyk-fix-08ed78c2626d2af89a99634ee341fe15</span></div>
                                     <div class="commit">
-                                        <div class="sha">#76cef3d</div>
-                                        <div class="message">fix: lesson_05/requirements.txt to reduce vulnerabilities
+                                        <div class="sha">#7b4d44b</div>
+                                        <div class="message">fix: trading_app/requirements.txt to reduce vulnerabilities
 
 
 The following vulnerabilities are fixed by pinning transitive dependencies:
@@ -1380,7 +1380,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">snyk-fix-6b6853b06b1e32364de3a1bd028d85b2</span>
+                                        <span class="code">snyk-fix-08ed78c2626d2af89a99634ee341fe15</span>
                                         in
                                         <span class="repo">Juan-Camilo-Suarez/fastapi_course_01</span>
                                     </div>
@@ -1727,7 +1727,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2024, 08:11:30 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2024, 09:16:31 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
