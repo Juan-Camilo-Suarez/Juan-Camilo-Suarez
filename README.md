@@ -55,6 +55,7 @@
   - Celery | Redis | RabbitMQ
   - Pytest | unittest
   - Docker | docker-compose | Gitlab CD/CI | Linux
+  - Grafana | Prometheus | Kibana
 
 🌱 I’m currently learning:
   - in-depth knowledge of asynchronous programming and Celery
