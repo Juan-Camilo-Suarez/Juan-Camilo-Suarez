@@ -1461,18 +1461,28 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">python_async</span>
-                                <div class="bar" style="width: 67.432%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">84%</span>
+                                <div class="bar" style="width: 68.312%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">85%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">admin-backend</span>
-                                <div class="bar" style="width: 11.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 10.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">local-project</span>
-                                <div class="bar" style="width: 0.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Asyncio_training</span>
+                                <div class="bar" style="width: 0.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">challenge_excercies</span>
+                                <div class="bar" style="width: 0.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -1481,27 +1491,27 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 58.184000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
+                                <div class="bar" style="width: 54.25599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 13.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 18.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 3.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 2.7760000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 3.1679999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 2.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 1.5759999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -1753,7 +1763,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2024, 00:11:26 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2024, 01:11:24 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
