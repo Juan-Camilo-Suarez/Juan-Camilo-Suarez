@@ -1344,14 +1344,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2aa3093</div>
-                                        <div class="message">Merge pull request #58 from gramant/features/header_trp
+                                        <div class="sha">#b0d2272</div>
+                                        <div class="message">Merge pull request #60 from gramant/features/ITVP-375
 
-fix headers trp plan</div>
+fix atribute is_editable in AdvertisingCampaign</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#76a78f3</div>
-                                        <div class="message">fix headers trp plan</div>
+                                        <div class="sha">#d8533cb</div>
+                                        <div class="message">fix atribute is_editable in AdvertisingCampaign</div>
                                     </div>
                                 </div>
                             </section>
@@ -1364,12 +1364,12 @@ fix headers trp plan</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#58 fix headers trp plan</span>
+                                        <span class="issue">#60 fix atribute is_editable in AdvertisingCampaign</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++2 --2</span></div>
+                                    <div>4 files changed <span class="code">++37 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1381,12 +1381,12 @@ fix headers trp plan</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#58 fix headers trp plan</span>
+                                        <span class="issue">#60 fix atribute is_editable in AdvertisingCampaign</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++2 --2</span></div>
+                                    <div>4 files changed <span class="code">++37 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1740,7 +1740,7 @@ fix headers trp plan</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2024, 22:11:27 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2024, 23:14:35 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
