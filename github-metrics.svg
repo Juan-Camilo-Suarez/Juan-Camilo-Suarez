@@ -1618,7 +1618,7 @@ fix atribute is_editable in AdvertisingCampaign</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.19m out of 147m users</span>
+                                    <span class="gh">ranked 2.19m out of 148m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">26</div>
                                     </div>
@@ -1745,7 +1745,7 @@ fix atribute is_editable in AdvertisingCampaign</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2024, 16:21:52 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2024, 17:12:54 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
