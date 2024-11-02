@@ -1327,14 +1327,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9da88d9</div>
-                                        <div class="message">Merge pull request #65 from gramant/features/ITVP-275
+                                        <div class="sha">#fd37df4</div>
+                                        <div class="message">Merge pull request #66 from gramant/features/ITVP-320
 
-fix bug ITVP-275</div>
+fix ITVP-320</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#870730d</div>
-                                        <div class="message">fix bug ITVP-275</div>
+                                        <div class="sha">#e2e1889</div>
+                                        <div class="message">fix ITVP-320</div>
                                     </div>
                                 </div>
                             </section>
@@ -1347,12 +1347,12 @@ fix bug ITVP-275</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#65 fix bug ITVP-275</span>
+                                        <span class="issue">#66 fix ITVP-320</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++9 --3</span></div>
+                                    <div>1 file changed <span class="code">++30 --20</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1364,12 +1364,12 @@ fix bug ITVP-275</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#65 fix bug ITVP-275</span>
+                                        <span class="issue">#66 fix ITVP-320</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++9 --3</span></div>
+                                    <div>1 file changed <span class="code">++30 --20</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1591,7 +1591,7 @@ fix bug ITVP-275</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.19m out of 148m users</span>
+                                    <span class="gh">ranked 2.19m out of 147m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">26</div>
                                     </div>
@@ -1718,7 +1718,7 @@ fix bug ITVP-275</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2024, 21:15:41 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2024, 22:25:46 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
