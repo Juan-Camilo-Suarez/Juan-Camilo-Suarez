@@ -4,7 +4,7 @@
 - :robot: Backend Developer | Software engineer 
 - 📌 Currently, I work at the Gramant company
 - ☄️ I have been working in companies like Smart Laboratory & MoneyCat 
-- 🎓 I Finished Kazan Federal University - at the institute of ITIS
+- 🎓 I Finished my Bachelor degree at Kazan Federal University - at the institute of ITIS
 - 🔭 Other of my projects are available at https://gitlab.com/juancamilosuarez3
 - 🦾 I know about machine learning
 
