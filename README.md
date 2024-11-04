@@ -61,10 +61,10 @@
 🌱 I’m currently learning:
   - in-depth knowledge of asynchronous programming and Celery
   - Kafka
-  - Devops and SRE at Tinkoff
 
 ⚡Also I have experience with others technologies like:
-  - Java, Spring Boot, JavaScript AngularJS, Vuejs, React 
+  - Java, Spring Boot, JavaScript AngularJS, Vuejs, React
+  - I Finished course SRE engineer at company T-Bank
 
 ---
 <h2 align="center">
