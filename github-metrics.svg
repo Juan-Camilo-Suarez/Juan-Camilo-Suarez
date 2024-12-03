@@ -223,7 +223,7 @@
                     <rect mask="url(#languages-bar)" x="227.68580084945307" y="0" width="97.73017239580201" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="325.4159732452551" y="0" width="63.63555329646249" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="389.0515265417176" y="0" width="24.752294817583874" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.8038213593014" y="0" width="16.00502158772943" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="413.8038213593014" y="0" width="16.00502158772943" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="429.8088429470308" y="0" width="14.732275612543214" height="8" fill="#c6538c"/>
                     <rect mask="url(#languages-bar)" x="444.54111855957404" y="0" width="11.490306040843997" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="456.031424600418" y="0" width="3.9685753995818973" height="8" fill="#41b883"/>
@@ -255,7 +255,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -1606,7 +1606,7 @@ Fix/itvp 393</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.23m out of 150m users</span>
+                                    <span class="gh">ranked 2.23m out of 148m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">26</div>
                                     </div>
@@ -1733,7 +1733,7 @@ Fix/itvp 393</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 15:26:51 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 16:24:40 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
