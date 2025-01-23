@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1324" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1274" class="">
     <defs>
         <style/>
     </defs>
@@ -1347,33 +1347,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">gramant/prj-ig-programmatic</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e8b49ee</div>
-                                        <div class="message">Merge pull request #143 from gramant/fix/ITVP-326
+                                        <div class="sha">#016f60b</div>
+                                        <div class="message">Merge pull request #144 from gramant/fix_v2/ITVP-470
 
-Fix/itvp 326</div>
+fix bug on generate sheet by channels</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b9592c1</div>
-                                        <div class="message">fix generation excel Pba tables</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#270d41f</div>
-                                        <div class="message">fix -1 on converters for pba table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4d5466</div>
-                                        <div class="message">fix function calcDiff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee428f5</div>
-                                        <div class="message">fix generation excel report</div>
+                                        <div class="sha">#135a3ea</div>
+                                        <div class="message">fix bug on generate sheet by channels</div>
                                     </div>
                                 </div>
                             </section>
@@ -1386,12 +1374,12 @@ Fix/itvp 326</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#143 Fix/itvp 326</span>
+                                        <span class="issue">#144 fix bug on generate sheet by channels</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>10 files changed <span class="code">++37 --45</span></div>
+                                    <div>2 files changed <span class="code">++37 --13</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1403,12 +1391,12 @@ Fix/itvp 326</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#143 Fix/itvp 326</span>
+                                        <span class="issue">#144 fix bug on generate sheet by channels</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>10 files changed <span class="code">++37 --45</span></div>
+                                    <div>2 files changed <span class="code">++37 --13</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1757,7 +1745,7 @@ Fix/itvp 326</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2025, 06:14:50 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2025, 07:15:32 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
