@@ -1354,14 +1354,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#016f60b</div>
-                                        <div class="message">Merge pull request #144 from gramant/fix_v2/ITVP-470
+                                        <div class="sha">#6d84c62</div>
+                                        <div class="message">Merge pull request #145 from gramant/features/ITVP-425
 
-fix bug on generate sheet by channels</div>
+fix bug filter by brands with client role in RK</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#135a3ea</div>
-                                        <div class="message">fix bug on generate sheet by channels</div>
+                                        <div class="sha">#c3da073</div>
+                                        <div class="message">fix bug filter by brands with client role</div>
                                     </div>
                                 </div>
                             </section>
@@ -1374,12 +1374,12 @@ fix bug on generate sheet by channels</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#144 fix bug on generate sheet by channels</span>
+                                        <span class="issue">#145 fix bug filter by brands with client role in RK</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++37 --13</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1391,12 +1391,12 @@ fix bug on generate sheet by channels</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#144 fix bug on generate sheet by channels</span>
+                                        <span class="issue">#145 fix bug filter by brands with client role in RK</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++37 --13</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1745,7 +1745,7 @@ fix bug on generate sheet by channels</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2025, 22:10:30 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2025, 23:13:56 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
