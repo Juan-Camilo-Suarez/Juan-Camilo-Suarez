@@ -1260,14 +1260,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c34a61</div>
-                                        <div class="message">Merge pull request #169 from gramant/features/ITVP-511
+                                        <div class="sha">#dd59fe6</div>
+                                        <div class="message">Merge pull request #170 from gramant/features/ITVP-511_2
 
-delete duplicate code</div>
+fix path when campaignId = undefine</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6b778c5</div>
-                                        <div class="message">delete duplicate code</div>
+                                        <div class="sha">#76dbbb1</div>
+                                        <div class="message">fix path when campaignId = undefine</div>
                                     </div>
                                 </div>
                             </section>
@@ -1280,12 +1280,12 @@ delete duplicate code</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#169 delete duplicate code</span>
+                                        <span class="issue">#170 fix path when campaignId = undefine</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++1 --6</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1297,12 +1297,12 @@ delete duplicate code</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#169 delete duplicate code</span>
+                                        <span class="issue">#170 fix path when campaignId = undefine</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>2 files changed <span class="code">++1 --6</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1671,7 +1671,7 @@ delete duplicate code</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2025, 21:17:12 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 22:10:22 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
