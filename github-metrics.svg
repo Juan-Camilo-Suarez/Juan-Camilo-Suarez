@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1154" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1187" class="">
     <defs>
         <style/>
     </defs>
@@ -1258,10 +1258,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">V2_clean_logic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#410f29d</div>
-                                        <div class="message">add password_hash in table company</div>
+                                        <div class="sha">#a5a172d</div>
+                                        <div class="message">comparation django vs fastapi</div>
                                     </div>
                                 </div>
                             </section>
@@ -1273,21 +1273,29 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">gramant/prj-ig-programmatic</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">Juan-Camilo-Suarez/NotifyHub</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">features/mediaplan_v2</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#459b32e</div>
-                                        <div class="message">Merge pull request #265 from gramant/features/ITVP-613_1
+                                        <div class="sha">#3913e59</div>
+                                        <div class="message">Merge pull request #2 from Juan-Camilo-Suarez/V2_clean_logic
 
-add multiplier for pdf and pptx</div>
+V2 clean logic</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fa62979</div>
-                                        <div class="message">add multiplier for pdf and pptx</div>
+                                        <div class="sha">#725a2fa</div>
+                                        <div class="message">create service to register</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bd7f30</div>
+                                        <div class="message">create repo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c43e58c</div>
+                                        <div class="message">clean router</div>
                                     </div>
                                 </div>
                             </section>
@@ -1300,12 +1308,12 @@ add multiplier for pdf and pptx</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#265 add multiplier for pdf and pptx</span>
+                                        <span class="issue">#2 V2 clean logic</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">gramant/prj-ig-programmatic</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div> in <span class="repo">Juan-Camilo-Suarez/NotifyHub</span></div>
+                                    <div>4 files changed <span class="code">++43 --26</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1444,7 +1452,7 @@ add multiplier for pdf and pptx</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2025, 04:10:38 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2025, 06:09:41 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
