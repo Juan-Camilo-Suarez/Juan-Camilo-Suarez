@@ -1286,8 +1286,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">staging</span></div>
                                     <div class="commit">
-                                        <div class="sha">#27af537</div>
-                                        <div class="message">added log for spots cicle</div>
+                                        <div class="sha">#9b921c9</div>
+                                        <div class="message">added log time in sort</div>
                                     </div>
                                 </div>
                             </section>
@@ -1306,8 +1306,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#27af537</div>
-                                        <div class="message">added log for spots cicle</div>
+                                        <div class="sha">#9b921c9</div>
+                                        <div class="message">added log time in sort</div>
                                     </div>
                                 </div>
                             </section>
@@ -1326,8 +1326,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">staging</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2d377d2</div>
-                                        <div class="message">added log for trp and grp blocks</div>
+                                        <div class="sha">#27af537</div>
+                                        <div class="message">added log for spots cicle</div>
                                     </div>
                                 </div>
                             </section>
@@ -1447,7 +1447,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2025, 23:13:53 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2025, 00:14:08 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
