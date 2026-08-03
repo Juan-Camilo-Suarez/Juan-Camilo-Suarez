@@ -1,7 +1,7 @@
 <!--https://github.com/Ileriayo/markdown-badges  icnonos-->
 <h1 align="center"> Hi there 👋🏽 I'm Juan Camilo :man_technologist: </h1>
 
-- :robot: Backend Developer | Software engineer 
+- :robot: Backend Developer | Software engineer | teamlead |
 - 📌 Currently, I work at the Gramant company
 - ☄️ I have been working in companies like Smart Laboratory & MoneyCat 
 - 🎓 I Finished my Bachelor degree at Kazan Federal University - at the institute of ITIS
@@ -103,4 +103,3 @@ Django-Google-APIs](https://github.com/Juan-Camilo-Suarez/Django-Google-APIs) - 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 - 📫 How to reach me: https://www.linkedin.com/in/juan-camilo-suarez-2a149723a/
--  Portfolio 🧑🏻‍💻 https://juan-camilo-suarez-dev.netlify.app/
